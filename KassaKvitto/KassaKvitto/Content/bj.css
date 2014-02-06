@@ -1,0 +1,28 @@
+﻿body {background-image:url(../Model/wew.jpg);
+      color:white;
+}
+
+#validering { color:red;
+}
+
+h1 { margin-left:800px;margin-top:200px;
+}
+
+#content {margin-left:800px;margin-top:20px;
+}
+
+#buttons {margin-top:10px;
+}
+
+
+#presentation {
+    border-width:20px; 
+    border:solid white 1px;
+    margin-left: 800px;
+    margin-top: 20px;
+    width: 150px;
+    margin-top:100px;
+
+}
+
+
