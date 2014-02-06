@@ -14,17 +14,13 @@ namespace KassaKvitto
         {
 
         }
-        protected void TextBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-
+       
         protected void Button_Click(object sender, EventArgs e)
         {
             if (IsValid)
             {
                 Receipt kvitto = new KassaKvitto.Model.Receipt(double.Parse(TextBox1.Text));
+
 
 
 

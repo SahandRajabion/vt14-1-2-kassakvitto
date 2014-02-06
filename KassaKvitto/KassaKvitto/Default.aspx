@@ -22,7 +22,7 @@
         <asp:Label ID="Label1" runat="server" Text="Total Köpesumma:"></asp:Label>
         
         <!--Textbox-->
-        <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
+        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
        
         <!--Knapp för uträkning av kvitto-->
         <asp:Button ID="Button" runat="server" Text="Beräkna rabatt" OnClick="Button_Click" />
