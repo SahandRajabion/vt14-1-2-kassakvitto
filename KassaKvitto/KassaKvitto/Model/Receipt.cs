@@ -67,7 +67,7 @@ namespace KassaKvitto.Model
         }
 
 
-        //Konstruktorn Receipt. Används varje gång användaren knappar in nytt värde.
+        //Konstruktorn Receipt.
         public Receipt (double subtotal)
         {
             Calculate(subtotal);
